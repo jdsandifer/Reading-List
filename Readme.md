@@ -4,9 +4,9 @@ This is a list of books I'm currently reading, I'm intending to read, or I've re
 They're all about software development in some way or another and - most importantly - they 
 contain age-old wisdom from experienced developers.
 
-I go to the internet and people around me to find out the latest information about a current 
+I go to the Internet and people around me to find out the latest information about a current 
 language, framework, or tool. However, I usually go to books to find wisdom and information that hasn't 
-changed (much) througout the history of software development. (Although I sometimes find that on the internet, too.)
+changed (much) througout the history of software development. (Although I sometimes find that on the Internet, too.)
 
 ## Currently Reading
 - *Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave H. Hoover & Adewale Oshineye
@@ -31,7 +31,7 @@ changed (much) througout the history of software development. (Although I someti
 - *Head First Design Patterns*
 - *Cracking the Coding Interview*
 
-### Just for Fun
+## Just for Fun
 This "Readme" is awesome because it's not only something to read, 
 but also contains a list of things to read. It's a readme of readme's!
 
