@@ -23,6 +23,7 @@ changed (much) througout the history of software development. (Although I someti
 - *Design Patterns*
 
 ## Have Read
+- *The Best Software Writing I: Selected and Introduced by Joel Spolsky*
 - *Extreme Programming Pocket Guide*
 - *Coders at Work*
 - *Code Complete 2*
