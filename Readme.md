@@ -24,11 +24,11 @@ changed (much) througout the history of software development. (Although I someti
 ## Have Read
 - *Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave H. Hoover & Adewale Oshineye
 - *The Best Software Writing I: Selected and Introduced by Joel Spolsky*
-- *Extreme Programming Pocket Guide*
-- *Coders at Work*
 - *Code Complete 2*
-- *The Mythical Man-Month*
+- *Coders at Work*
+- *Extreme Programming Pocket Guide*
 - *The Pragmatic Programmer*
+- *The Mythical Man-Month*
 - *Head First Design Patterns*
 - *Cracking the Coding Interview*
 
