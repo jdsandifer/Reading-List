@@ -9,12 +9,11 @@ language, framework, or tool. However, I usually go to books to find wisdom and 
 changed (much) througout the history of software development. (Although I sometimes find that on the Internet, too.)
 
 ## Currently Reading
-- *Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave H. Hoover & Adewale Oshineye
+- *Programming Pearls* or *Etudes for Programmers*
 
 ## To Read
-- *Programming Pearls* or *Etudes for Programmers*
 - *Refactoring*
-- *Structure and Interpretation or Computer Programs*
+- *Structure and Interpretation of Computer Programs*
 - *Working Effectively with Legacy Code*
 - *Clean Code*
 - *The Passionate Programmer*
@@ -23,6 +22,7 @@ changed (much) througout the history of software development. (Although I someti
 - *Design Patterns*
 
 ## Have Read
+- *Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave H. Hoover & Adewale Oshineye
 - *The Best Software Writing I: Selected and Introduced by Joel Spolsky*
 - *Extreme Programming Pocket Guide*
 - *Coders at Work*
