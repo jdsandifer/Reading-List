@@ -9,7 +9,7 @@ language, framework, or tool. However, I usually go to books to find wisdom and 
 changed (much) througout the history of software development. (Although I sometimes find that on the Internet, too.)
 
 ## Currently Reading
-- *Programming Pearls* or *Etudes for Programmers*
+-  *Etudes for Programmers* (acquiring via InterLibrary Loan at the moment)
 
 ## To Read
 - *Refactoring*
@@ -17,6 +17,7 @@ changed (much) througout the history of software development. (Although I someti
 - *Working Effectively with Legacy Code*
 - *Clean Code*
 - *The Passionate Programmer*
+- *Programming Pearls*
 - *Zen and the Art of Motorcycle Maintenance*
 - *Introduction to Algorithms*
 - *Design Patterns*
