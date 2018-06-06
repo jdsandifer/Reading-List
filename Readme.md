@@ -1,5 +1,5 @@
 # Reading List
-This is a list of books I'm currently reading, I'm intending to read, or I've read already.
+This is a list of books and articles I'm currently reading, I'm intending to read, or I've read already.
 
 They're all about software development in some way or another and - most importantly - they 
 contain age-old wisdom from experienced developers.
@@ -27,6 +27,7 @@ changed (much) througout the history of software development. (Although I someti
 - *The Best Software Writing I: Selected and Introduced by Joel Spolsky*
 - *Code Complete 2*
 - *Coders at Work*
+- "The Humble Programmer" by Edsger W. Dijkstra (1972 ACM Turing Award Lecture)
 - *Extreme Programming Pocket Guide*
 - *The Pragmatic Programmer*
 - *The Mythical Man-Month*
@@ -34,7 +35,7 @@ changed (much) througout the history of software development. (Although I someti
 - *Cracking the Coding Interview*
 
 ## Just for Fun
-This "Readme" is awesome because it's not only something to read, 
+This "Readme" is awesome it's not only something to read, 
 but also contains a list of things to read. It's a readme of readme's!
 
-I enjoy stuff like that. :-)
+I enjoy stuff little coincidences like that. They makes life fun! :-)
