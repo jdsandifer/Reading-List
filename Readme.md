@@ -14,11 +14,13 @@ changed (much) througout the history of software development. (Although I someti
 ## To Read
 - *Refactoring*
 - *Structure and Interpretation of Computer Programs*
+- *Purely Functional Data Structures*
 - *Working Effectively with Legacy Code*
 - *Clean Code*
 - *The Passionate Programmer*
 - *Programming Pearls*
 - *Zen and the Art of Motorcycle Maintenance*
+- *The Art of Computer Programming*
 - *Introduction to Algorithms*
 - *Design Patterns*
 
