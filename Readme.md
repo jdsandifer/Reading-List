@@ -37,7 +37,7 @@ changed (much) througout the history of software development. (Although I someti
 - *Cracking the Coding Interview*
 
 ## Just for Fun
-This "Readme" is awesome it's not only something to read, 
+This "Readme" is awesome - it's not only something to read, 
 but also contains a list of things to read. It's a readme of readme's!
 
-I enjoy stuff little coincidences like that. They makes life fun! :-)
+I enjoy little coincidences like that. They make life fun! :-)
