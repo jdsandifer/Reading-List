@@ -9,10 +9,10 @@ language, framework, or tool. However, I usually go to books to find wisdom and 
 changed (much) througout the history of software development. (Although I sometimes find that on the Internet, too.)
 
 ## Currently Reading
--  *Etudes for Programmers*
 
 ## To Read
 - *Refactoring*
+- *97 Things Every Programmer Should Know: Collective Wisdom from the Experts*
 - *Structure and Interpretation of Computer Programs*
 - *Purely Functional Data Structures*
 - *Working Effectively with Legacy Code*
@@ -25,6 +25,7 @@ changed (much) througout the history of software development. (Although I someti
 - *Design Patterns*
 
 ## Have Read
+- *Etudes for Programmers*
 - *Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave H. Hoover & Adewale Oshineye
 - *The Best Software Writing I: Selected and Introduced by Joel Spolsky*
 - *Code Complete 2*
@@ -37,7 +38,5 @@ changed (much) througout the history of software development. (Although I someti
 - *Cracking the Coding Interview*
 
 ## Just for Fun
-This "Readme" is awesome - it's not only something to read, 
-but also contains a list of things to read. It's a readme of readme's!
-
-I enjoy little coincidences like that. They make life fun! :-)
+This readme is not only something to read, 
+but also contains a list of things to read. It's a readme of readme's! :-)
