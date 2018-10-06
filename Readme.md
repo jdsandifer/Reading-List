@@ -9,22 +9,22 @@ language, framework, or tool. However, I usually go to books to find wisdom and 
 changed (much) througout the history of software development. (Although I sometimes find that on the Internet, too.)
 
 ## Currently Reading
-- *Refactoring*
 
 ## To Read
+- *Clean Code*
 - *97 Things Every Programmer Should Know: Collective Wisdom from the Experts*
 - *Structure and Interpretation of Computer Programs*
 - *Purely Functional Data Structures*
-- *Working Effectively with Legacy Code*
-- *Clean Code*
 - *The Passionate Programmer*
 - *Programming Pearls*
+- *Working Effectively with Legacy Code*
+- *Refactoring, 2nd Edition*
 - *Zen and the Art of Motorcycle Maintenance*
 - *The Art of Computer Programming*
 - *Introduction to Algorithms*
-- *Design Patterns*
 
 ## Have Read
+- *Refactoring*
 - *Etudes for Programmers*
 - *Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave H. Hoover & Adewale Oshineye
 - *The Best Software Writing I: Selected and Introduced by Joel Spolsky*
