@@ -9,10 +9,10 @@ language, framework, or tool. However, I usually go to books to find wisdom and 
 changed (much) througout the history of software development. (Although I sometimes find that on the Internet, too.)
 
 ## Currently Reading
-
-## To Read
 - *Clean Code*
 - *97 Things Every Programmer Should Know: Collective Wisdom from the Experts*
+
+## To Read
 - *Structure and Interpretation of Computer Programs*
 - *Purely Functional Data Structures*
 - *The Passionate Programmer*
