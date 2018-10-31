@@ -10,7 +10,6 @@ changed (much) througout the history of software development. (Although I someti
 
 ## Currently Reading
 - *Clean Code*
-- *97 Things Every Programmer Should Know: Collective Wisdom from the Experts*
 
 ## To Read
 - *Structure and Interpretation of Computer Programs*
@@ -24,6 +23,7 @@ changed (much) througout the history of software development. (Although I someti
 - *Introduction to Algorithms*
 
 ## Have Read
+- *97 Things Every Programmer Should Know: Collective Wisdom from the Experts*
 - *Refactoring*
 - *Etudes for Programmers*
 - *Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave H. Hoover & Adewale Oshineye
