@@ -6,21 +6,22 @@ contain age-old wisdom from experienced developers.
 
 I go to the Internet and people around me to find out the latest information about a current 
 language, framework, or tool. However, I usually go to books to find wisdom and information that hasn't 
-changed (much) througout the history of software development. (Although I sometimes find that on the Internet, too.)
+changed (much) througout the history of software development. I sometimes find that on the Internet, too.
 
 ## Currently Reading
 - *Clean Code*
 
 ## To Read
+- *The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues*
 - *Structure and Interpretation of Computer Programs*
 - *Purely Functional Data Structures*
 - *The Passionate Programmer*
 - *Programming Pearls*
-- *Working Effectively with Legacy Code*
-- *Refactoring, 2nd Edition*
 - *Zen and the Art of Motorcycle Maintenance*
+- *Refactoring, 2nd Edition*
 - *The Art of Computer Programming*
 - *Introduction to Algorithms*
+- *Working Effectively with Legacy Code*
 
 ## Have Read
 - *97 Things Every Programmer Should Know: Collective Wisdom from the Experts*
