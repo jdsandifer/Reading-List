@@ -9,7 +9,7 @@ language, framework, or tool. However, I usually go to books to find wisdom and 
 changed (much) througout the history of software development. I sometimes find that on the Internet, too.
 
 ## Currently Reading
-- *Clean Code*
+(I'm taking a short break from reading software books; I'm focusing on practicing what I've learned.)
 
 ## To Read
 - *The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues*
@@ -24,6 +24,7 @@ changed (much) througout the history of software development. I sometimes find t
 - *Working Effectively with Legacy Code*
 
 ## Have Read
+- *Clean Code*
 - *97 Things Every Programmer Should Know: Collective Wisdom from the Experts*
 - *Refactoring*
 - *Etudes for Programmers*
