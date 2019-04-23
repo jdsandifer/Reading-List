@@ -9,10 +9,9 @@ language, framework, or tool. However, I usually go to books to find wisdom and 
 changed (much) througout the history of software development. I sometimes find that on the Internet, too.
 
 ## Currently Reading
-(I'm taking a short break from reading software books; I'm focusing on practicing what I've learned.)
+- *Zen and the Art of Motorcycle Maintenance*
 
 ## To Read
-- *Zen and the Art of Motorcycle Maintenance*
 - *The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues*
 - *Structure and Interpretation of Computer Programs*
 - *Purely Functional Data Structures*
