@@ -12,12 +12,12 @@ changed (much) througout the history of software development. I sometimes find t
 (I'm taking a short break from reading software books; I'm focusing on practicing what I've learned.)
 
 ## To Read
+- *Zen and the Art of Motorcycle Maintenance*
 - *The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues*
 - *Structure and Interpretation of Computer Programs*
 - *Purely Functional Data Structures*
 - *The Passionate Programmer*
 - *Programming Pearls*
-- *Zen and the Art of Motorcycle Maintenance*
 - *Refactoring, 2nd Edition*
 - *The Art of Computer Programming*
 - *Introduction to Algorithms*
