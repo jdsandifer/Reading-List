@@ -12,6 +12,7 @@ changed (much) througout the history of software development. I sometimes find t
 - *The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues* by Patrick Lencioni
 
 ## To Read
+- *Code: The Hidden Language of Computer Hardware and Software* by Charles Petzold
 - *Structure and Interpretation of Computer Programs*
 - *Purely Functional Data Structures*
 - *The Passionate Programmer*
