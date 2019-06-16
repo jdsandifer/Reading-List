@@ -9,7 +9,7 @@ language, framework, or tool. However, I usually go to books to find wisdom and 
 changed (much) througout the history of software development. I sometimes find that on the Internet, too.
 
 ## Currently Reading
-- *The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues* by Patrick Lencioni
+- Break time... (I try to leave time to think about and implement ideas from the last book before I start another.)
 
 ## To Read
 - *Code: The Hidden Language of Computer Hardware and Software* by Charles Petzold
@@ -23,6 +23,7 @@ changed (much) througout the history of software development. I sometimes find t
 - *Introduction to Algorithms*
 
 ## Have Read
+- *The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues* by Patrick Lencioni
 - *Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values* by Robert M. Pirsig
 - *Clean Code*
 - *97 Things Every Programmer Should Know: Collective Wisdom from the Experts*
@@ -47,10 +48,11 @@ I've also made sure each of these books is one I'd like to have on my shelf - fo
 I've listed these roughly in the order that I would recommend them to a beginner.
 
 - *Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave H. Hoover & Adewale Oshineye
+- *The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues* by Patrick Lencioni
 - *Clean Code*
 - *Cracking the Coding Interview*
-- *97 Things Every Programmer Should Know: Collective Wisdom from the Experts*
 - *Head First Design Patterns*
+- *97 Things Every Programmer Should Know: Collective Wisdom from the Experts*
 
 ## Just for Fun
 This readme is not only something to read, 
