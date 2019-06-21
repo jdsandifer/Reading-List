@@ -23,6 +23,7 @@ changed (much) througout the history of software development. I sometimes find t
 - *Introduction to Algorithms*
 
 ## Have Read
+- *Refactoring UI* by Adam Wathan & Steve Schoger
 - *The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues* by Patrick Lencioni
 - *Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values* by Robert M. Pirsig
 - *Clean Code*
