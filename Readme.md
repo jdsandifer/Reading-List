@@ -9,11 +9,10 @@ language, framework, or tool. However, I usually go to books to find wisdom and 
 changed (much) througout the history of software development. I sometimes find that on the Internet, too.
 
 ## Currently Reading
-
-
-## To Read
 - *Code: The Hidden Language of Computer Hardware and Software* by Charles Petzold
 - *Refactoring: Improving the Design of Existing Code* by Martin Fowler, with Kent Beck (2nd Edition)
+
+## To Read
 - Notes from the Algorithms class I took in college
 - *Structure and Interpretation of Computer Programs*
 - *Purely Functional Data Structures*
