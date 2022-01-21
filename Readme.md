@@ -6,19 +6,35 @@ contain age-old wisdom from experienced developers.
 
 I go to the Internet and people around me to find out the latest information about a current 
 language, framework, or tool. However, I usually go to books to find wisdom and information that hasn't 
-changed (much) througout the history of software development. I sometimes find that on the Internet, too.
+changed (much) througout the history of software development. (Although I sometimes find that on the Internet, too.)
+
+## Learning to Code
+Just in case you found this while trying to learn to code, I want to add my advice on that subject:
+
+[freeCodeCamp](https://www.freecodecamp.org/learn/)
+
+That's really the only advice I think you need. Go through the certification programs in order - they're 
+completely FREE - and do the projects completely. This is key - make real things and don't start the next 
+thing until you've got the current one working and in a "finished" state (something you'd be happy to show 
+off in an interview or to your family and friends).
+
+I would also recommend not skipping any of the challenges or projects. If you've already learned the material, 
+you can skip the intros and just do the steps to get the tests to pass. (It'll either go really quickly or 
+you'll realize you didn't understand it as well as you thought and can go back and review the information.) 
+They also have a great forum if you need help on the projects.
 
 ## Currently Reading
-I'm on a brief hiatus right now to focus on deliberate practice.
+I'm currently going through the Epic React course to level up my skills in that area so I'm not reading 
+anything else right now.
 
 ## To Read
+- *Working Effectively with Legacy Code*
 - *Structure and Interpretation of Computer Programs*
 - *Purely Functional Data Structures*
 - Notes from the Algorithms class I took in college
 - *The Passionate Programmer*
 - *Programming Pearls*
 - *The Art of Computer Programming*
-- *Working Effectively with Legacy Code*
 - *Introduction to Algorithms*
 
 ## Have Read
