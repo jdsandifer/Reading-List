@@ -24,8 +24,7 @@ you'll realize you didn't understand it as well as you thought and can go back a
 They also have a great forum if you need help on the projects.
 
 ## Currently Reading
-I'm currently going through the Epic React course to level up my skills in that area so I'm not reading 
-anything else right now.
+- *Grokking Algorithms, Second Edition* by Aditya Y. Bhargava
 
 ## To Read
 - *Working Effectively with Legacy Code*
@@ -66,7 +65,7 @@ I've also made sure each of these books is one I'd like to have on my shelf - fo
 I've listed these roughly in the order that I would recommend them to a beginner and listed why I'd recommend them.
 
 - Learning how to learn: *Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman* by Dave H. Hoover & Adewale Oshineye
-- What good code looks like: *Clean Code*
+- What good code looks like: *Clean Code* and *Refactoring: Improving the Design of Existing Code*
 - How to work with others: *The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues* by Patrick Lencioni
 - Getting a job (and algorithms): *Cracking the Coding Interview*
 - More advanced ideas (OOP): *Head First Design Patterns*
