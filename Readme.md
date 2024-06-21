@@ -35,6 +35,9 @@ They also have a great forum if you need help on the projects.
 - *Programming Pearls*
 - *The Art of Computer Programming*
 - *Introduction to Algorithms*
+- *Why Programs Fail*
+- *Designing Data-Intensive Applications*
+- *Domain-Driven Design*
 
 ## Have Read
 - *Refactoring: Improving the Design of Existing Code* by Martin Fowler, with Kent Beck (2nd Edition)
